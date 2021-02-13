@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49be8169-d508-4d53-9fe9-693fcc192094" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oQrxHLWYRL4crgL4eOO1Oy3DBh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49be8169-d508-4d53-9fe9-693fcc192094" name="Default Changelist" comment="" />
+      <created>1613229916835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613229916835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Notifications" timestamp="1613230452072">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="99" key="#Notifications/0.23.1440.821@0.23.1440.821" timestamp="1613230452072" />
+    <state x="570" y="334" key="Github.ShareDialog" timestamp="1613230318007">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="570" y="334" key="Github.ShareDialog/0.23.1440.821@0.23.1440.821" timestamp="1613230318007" />
+    <state x="349" y="134" key="NewModule_or_Project.wizard" timestamp="1613230386085">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="349" y="134" key="NewModule_or_Project.wizard/0.23.1440.821@0.23.1440.821" timestamp="1613230386085" />
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1613229963603">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1613229963603" />
+  </component>
+</project>
