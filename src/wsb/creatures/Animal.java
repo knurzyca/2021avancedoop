@@ -102,6 +102,5 @@ public class Animal implements Feedable, Comparable<Animal> {
     public void save() throws SQLException {
         String sql = "insert into animal values ('" + this.species + "','" + this.name + "'," + this.weight + ");";
         System.out.println(sql);
-        Connector.executeSQL(sql);
     }
 }

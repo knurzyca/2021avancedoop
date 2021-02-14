@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49be8169-d508-4d53-9fe9-693fcc192094" name="Default Changelist" comment="" />
+    <list default="true" id="e9a64108-86f2-47c2-ac43-da841e1bc16a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oop2020-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsb/creatures/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsb/creatures/Animal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,49 +17,91 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1oQrxHLWYRL4crgL4eOO1Oy3DBh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1oU38UReY8l9wzrxdIbr6hyWTVA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="wsb.Main" />
+      <module name="2021avancedoop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="49be8169-d508-4d53-9fe9-693fcc192094" name="Default Changelist" comment="" />
-      <created>1613229916835</created>
+      <changelist id="e9a64108-86f2-47c2-ac43-da841e1bc16a" name="Default Changelist" comment="" />
+      <created>1613327182638</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613229916835</updated>
+      <updated>1613327182638</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="99" key="#Notifications" timestamp="1613230452072">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="102" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613327675742">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="99" key="#Notifications/0.23.1440.821@0.23.1440.821" timestamp="1613230452072" />
-    <state x="570" y="334" key="Github.ShareDialog" timestamp="1613230318007">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="102" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1613327675742" />
+    <state x="102" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1613327250770" />
+    <state x="375" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613327667112">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="570" y="334" key="Github.ShareDialog/0.23.1440.821@0.23.1440.821" timestamp="1613230318007" />
-    <state x="349" y="134" key="NewModule_or_Project.wizard" timestamp="1613230386085">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="375" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1613327667112" />
+    <state x="375" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.821@0.23.1440.821" timestamp="1613327247067" />
+    <state x="570" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1613327634922">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="349" y="134" key="NewModule_or_Project.wizard/0.23.1440.821@0.23.1440.821" timestamp="1613230386085" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1613229963603">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="570" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1613327634922" />
+    <state x="308" y="101" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1613327631324">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1613229963603" />
+    <state x="308" y="101" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1440.900@0.0.1440.900" timestamp="1613327631324" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1613327781807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613327781807" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1613327781805">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613327781805" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1613327781801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613327781801" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1613327781806">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613327781806" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1613327326801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613327326801" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1613327420209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1613327420209" />
   </component>
 </project>

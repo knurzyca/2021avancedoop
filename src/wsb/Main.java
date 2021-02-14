@@ -15,8 +15,6 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        Connector.connect();
-
         Pet dog = new Pet("dog");
         dog.name = "Akita";
 
@@ -90,17 +88,6 @@ public class Main {
         System.out.println(me.mobile.isInstalled("facebook"));
         System.out.println(me.mobile.isInstalled("messenger"));
 
-
-        ResultSet rs = Connector.getStatement().executeQuery("SELECT * FROM animal");
-        List<Animal> animals = new LinkedList<>();
-
-        while (rs.next()) {
-            Animal animal = new Animal(rs.getString("species"), rs.getDouble("weight"));
-            animal.name = rs.getString("name");
-            animals.add(animal);
-        }
-
-        System.out.println(animals);
 
     }
 }
